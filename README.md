@@ -2,13 +2,13 @@
 
 This is some projects in JavaScript 
 
-    1- Project is countdown  
+    1- Countdown Project
 
         1.1- future date 
 
         1.2- timer 
 
-    2- project is Quiz App 
+    2- Quiz App Project
 
         2.1- questions from obj 
 
