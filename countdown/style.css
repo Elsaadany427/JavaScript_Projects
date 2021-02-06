@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("./ikaia-pal-_z1LfoESWpw-unsplash.jpg");
+    font-family: 'Londrina Solid', cursive;
+    background-position: center center;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 4rem;
+    margin-top: -10rem;
+    background: -webkit-linear-gradient(#981f00, #ccba7f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.countdown-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.big-text {
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#981f00, #ccba7f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.countdown-e1 {
+    text-align: center;
+}
+
+.countdown-e1 span {
+    font-size: 1.5rem;
+}
